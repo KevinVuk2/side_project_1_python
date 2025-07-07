@@ -20,5 +20,4 @@ The data is grouped by borough to calculate summary statistics, including the co
 The borough with the highest standard deviation is identified, highlighting the area with the most significant disparity in school performance.
 
 # Technologies Used
-- Python
-- pandas
+- Python (pandas)
