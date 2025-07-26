@@ -1,3 +1,4 @@
+![NYC](schoolbus.jpg)
 # This is a  Project I did while studying Data Analysis
 
 # NYC Public School SAT Performance Analysis
